@@ -11,5 +11,5 @@ Assegurar que al vincle de cada imatge hi hagi una descripció alternativa.
 
 ## Tasques
 - [Tasca2-Selecció d’un SAI per una empresa client](/Tasca02)
-- [Tasca3-](/Tasca03)
-- [Tasca8](/Tasca08)
+- [Tasca3-Seguretat Lògica: recuperant accés a sistemes](/Tasca03)
+- [Tasca8-Proposta de domini i hosting per al client Llibres Maresme](/Tasca08)
