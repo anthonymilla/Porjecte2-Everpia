@@ -1,15 +1,16 @@
-# Projecte 2 - Afegint la documentació de seguretat al repositori
+# Projecte 2 - Consultoria EverPia
 
-Al llarg d’aquest projecte heu estat documentant una sèrie de guies. Però de poc en serveix fer guies tècniques en documents si després no són fàcilment accessibles. Es crea un problema que s’anomena data silo. Per evitar-lo, aprofitarem que tot just hem començat a treballar amb el control de versions (git i GitHub) i crearem un repositori que inclourà la documentació en format markdown.
-Crear un repositori que es digui Projecte2.
-Crear un README.md presenti el projecte. Useu aquells recursos del MarkDown que creieu necessaris per fer visualment atractiva la descripció.
-Dins d’aquest projecte crear una carpeta per les tasques 2 i 3.
-Crear un README.md dins de cada carpeta explicant l’activitat i el contingut de la carpeta (arxiu solucio.md). Haurà d'existir un hipervincle per accedir directament aquest arxiu solucio.
-Crear una carpeta img a cadascuna de les dues carpetes i pugeu les imatges de les captures de pantalla. Procureu que tinguin una mida adequada i que estiguin en format PNG.
-Crear a cada repositori un arxiu anomenat solucio.md on documentareu la tasca. Aquest document haurà de contenir la documentació en format MarkDown. En aquest document també haureu d'incloure les imatges.
-Assegurar que al vincle de cada imatge hi hagi una descripció alternativa.
+Benvinguts a EverPia
+
+EverPia és una consultora IT que té com a missió resoldre els reptes tecnològics de clients molt diversos.
+
+Acabeu d’incorporar-vos a l’empresa com a nous consultors júnior i, a partir d’avui, formareu part de l’equip que dona servei a diferents organitzacions.
+
+Cada client té les seves necessitats concretes i, sovint, semblen projectes inconnexos.
+
+Però no us enganyeu: el que realment us demanem és capacitat d’adaptació, visió global i organització.
 
 ## Tasques
-- [Tasca2-Selecció d’un SAI per una empresa client](/Tasca02)
-- [Tasca3-Seguretat Lògica: recuperant accés a sistemes](/Tasca03)
-- [Tasca8-Assessorament de domini i hosting Llibres Maresme](/Tasca08)
+- [Tasca02-Selecció d’un SAI per una empresa client](/Tasca02)
+- [Tasca03-Seguretat Lògica: recuperant accés a sistemes](/Tasca03)
+- [Tasca08-Assessorament de domini i hosting Llibres Maresme](/Tasca08)
