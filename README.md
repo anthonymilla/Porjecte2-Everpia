@@ -10,6 +10,6 @@ Crear a cada repositori un arxiu anomenat solucio.md on documentareu la tasca. A
 Assegurar que al vincle de cada imatge hi hagi una descripció alternativa.
 
 ## Tasques
-- [Tasca2](/Tasca02)
-- [Tasca3](/Tasca03)
+- [Tasca2-Selecció d’un SAI per una empresa client](/Tasca02)
+- [Tasca3-](/Tasca03)
 - [Tasca8](/Tasca08)
