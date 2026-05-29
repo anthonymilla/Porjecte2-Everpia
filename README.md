@@ -11,6 +11,7 @@ Cada client té les seves necessitats concretes i, sovint, semblen projectes inc
 Però no us enganyeu: el que realment us demanem és capacitat d’adaptació, visió global i organització.
 
 ## Tasques:
+
 - [Tasca02-Selecció d’un SAI per una empresa client](/Tasca02)
 
 - [Tasca03-Seguretat Lògica: recuperant accés a sistemes](/Tasca03)
